@@ -21,4 +21,5 @@ Disclaimer❗️These resources are not all my own. Many incredibly talented fol
 
 🔥 = hot diggity dawg this gets results 
 
-💰 = get those hands in those pockets 
+💰 = no freebie's here
+
