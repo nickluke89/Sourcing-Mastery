@@ -14,7 +14,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 Oh, and please contribute! 
 
-Disclaimer❗️These resources are not all my own. Many incredibly talented folk from across the tech community have shared these with me and asked that I use them respectfully. So no mass spamming you here me!! 
+Disclaimer❗️These resources are not all my own. Many incredibly talented folk from across the tech community have shared these with me and asked that I use them respectfully. So no mass spamming, you here me?! 🤠 
 
 
 ✅ = daily use 
