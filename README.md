@@ -16,7 +16,7 @@ Oh, and please contribute!
 
 Disclaimer❗️These resources are not all my own. Many incredibly talented folk from across the tech community have shared these with me and asked that I use them respectfully. So no mass spamming, you here me?! 🤠 
 
-↠
+
 ✅ = daily use 
 
 🔥 = hot diggity dawg this gets results 
