@@ -1,6 +1,6 @@
 # Sourcing-In-Space
 
-Hey folks, I'm Nick 👋
+Hey folks, I'm [Nick] (https://www.linkedin.com/in/nick-dickinson-techrecruiter/) 👋
 
 A Tech Recruiter from the UK 🇬🇧 
 
