@@ -16,9 +16,10 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 
 
-✅ = daily use 
 
-🔥 = hot diggity dawg this gets results 
 
-💰 = no freebie's
+Finding candidates on socials 🔎 
+
+GitHub 👾 
+[GitHub advanced search] (https://github.com/search?q=language%3Ajava+location%3Anetherlands)
 
