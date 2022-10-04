@@ -24,7 +24,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [GitHub advanced search](https://github.com/search?q=language%3Ajava+location%3Anetherlands)
 
-[OctoHR](https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef) **Helps recruiters to get more information about developers
+[OctoHR](https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef) ****Helps recruiters to get more information about developers
 
 [Gitlogs](https://www.gitlogs.com/most_popular?topic=NODE)
 
