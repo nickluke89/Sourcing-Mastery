@@ -21,5 +21,6 @@ Why create this recruitment resource list and open source it? Energy in energy o
 Finding candidates on socials 🔎 
 
 GitHub 👾 
-[GitHub advanced search] (https://github.com/search?q=language%3Ajava+location%3Anetherlands)
+
+[GitHub advanced search](https://github.com/search?q=language%3Ajava+location%3Anetherlands)
 
