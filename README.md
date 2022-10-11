@@ -31,8 +31,18 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [Gitlogs](https://www.gitlogs.com/most_popular?topic=NODE) <sup>discover the top trending repos </sup>
   
+:eyeglasses: xray search: site:stackoverflow.com/users "Amsterdam" Java
+  
 
 ### Stack Overflow :jack_o_lantern:
   
   
-:eyeglasses: xray search: site:stackoverflow.com/users "Amsterdam" Java
+### X-ray Searches 🔦 
+
+###### GitHub
+site:github.com/ "hi there" "how to reach me" "gmail.com" Node
+site:github.com/ "block or report" "hi there" "how to reach me" "gmail.com" "hotmail.com" Node
+site:github.com/ "block or report" "hi there" "how to reach me" "gmail.com" Node (Brazil)  
+  
+###### Stack Overflow  
+site:stackoverflow.com/users "Amsterdam" Java
