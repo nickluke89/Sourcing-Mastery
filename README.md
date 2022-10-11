@@ -39,7 +39,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 [Find Stack Overflow Users In Your City](https://data.stackexchange.com/stackoverflow/query/715250/find-stack-overflow-users-in-your-city-with-user-links-with-their-score-for-one) 
   
   
-
+[Top Users by Country](https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country) 
   
   
 ### X-ray Searches 🔦 
