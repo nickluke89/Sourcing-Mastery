@@ -32,4 +32,4 @@ Why create this recruitment resource list and open source it? Energy in energy o
 [Gitlogs](https://www.gitlogs.com/most_popular?topic=NODE) <sup>discover the top trending repos </sup>
   
 
-### Stack Overflow
+### Stack Overflow :jack_o_lantern:
