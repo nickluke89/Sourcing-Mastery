@@ -34,8 +34,12 @@ Why create this recruitment resource list and open source it? Energy in energy o
 :eyeglasses: xray search: site:stackoverflow.com/users "Amsterdam" Java
   
 
-### Stack Overflow :jack_o_lantern:
+### Stack Overflow :orange_book:
+
+[Find Stack Overflow Users In Your City](https://data.stackexchange.com/stackoverflow/query/715250/find-stack-overflow-users-in-your-city-with-user-links-with-their-score-for-one) 
   
+  
+
   
   
 ### X-ray Searches 🔦 
