@@ -32,4 +32,4 @@ Why create this recruitment resource list and open source it? Energy in energy o
 [Gitlogs](https://www.gitlogs.com/most_popular?topic=NODE) <sup>discover the top trending repos </sup>
   
 
-###Stack Overflow ![This is an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AStack_Overflow_icon.svg&psig=AOvVaw2S7QahzLGEKliojzs9iRs1&ust=1665568165733000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPDum4vz1_oCFQAAAAAdAAAAABAD) 
+###Stack Overflow ![This is an image](https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg) 
