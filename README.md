@@ -33,3 +33,6 @@ Why create this recruitment resource list and open source it? Energy in energy o
   
 
 ### Stack Overflow :jack_o_lantern:
+  
+  
+  site:stackoverflow.com/users "Amsterdam" Java
