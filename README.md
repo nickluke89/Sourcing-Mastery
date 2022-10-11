@@ -31,7 +31,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [Gitlogs](https://www.gitlogs.com/most_popular?topic=NODE) <sup>discover the top trending repos </sup>
   
-:eyeglasses: xray search: site:stackoverflow.com/users "Amsterdam" Java
+
   
 
 ### Stack Overflow :orange_book:
