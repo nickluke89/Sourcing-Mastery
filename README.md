@@ -51,9 +51,7 @@ site:stackoverflow.com/users "great answer" Brazil
   
   
 ###### Facebook 
-facebook.com ("Fullstack"|"Full stack"|"Full- stack"|"Go"|"Scala"| Software Engineer|"SWE"|"SWD"|"SDE"|"Developer") AROUND 10 ("Role"|"Job"|"title"|"to present") AND "Kyiv, Ukraine" AROUND 10 ("current city"|"to present")
-
-  site:facebook.com “profile photo” Software Developer (Kiev OR Kyiv) Ukraine
-
-  site:facebook.com "Others With a Similar Name" "javascript *" Kyiv, Ukraine  
+site:facebook.com ("Fullstack"|"Full stack"|"Full- stack"|"Go"|"Scala"| Software Engineer|"SWE"|"SWD"|"SDE"|"Developer") AROUND 10 ("Role"|"Job"|"title"|"to present") AND "Kyiv, Ukraine" AROUND 10 ("current city"|"to present")
+site:facebook.com “profile photo” Software Developer (Kiev OR Kyiv) Ukraine
+site:facebook.com "Others With a Similar Name" "javascript *" Kyiv, Ukraine  
 
