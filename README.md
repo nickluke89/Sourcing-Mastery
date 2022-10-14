@@ -14,7 +14,7 @@ My interests ↠ Space 🛰  Star Wars 💫  Sports ⚽️  Technology 🚀
 Why create this recruitment resource list and open source it? Energy in energy out my friends 🌍 💚
 
 
-→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
+→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
 ## KEY 
 
 🍿 Video
@@ -23,7 +23,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 💰 Paywall
 
-
+→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
 ## Finding candidates on Socials 🔎 
 
 ### 👾 GitHub 
