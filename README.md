@@ -34,7 +34,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
   
 
-### Stack Overflow :orange_book:
+### Stack Overflow :basecamp:
 
 [Find Top Users In Your City](https://data.stackexchange.com/stackoverflow/query/715250/find-stack-overflow-users-in-your-city-with-user-links-with-their-score-for-one) 
   
@@ -44,7 +44,8 @@ Why create this recruitment resource list and open source it? Energy in energy o
   
 ### Reddit :electron:
   
-  
+[Discover the right subreddit] (https://redditsearch.io/) 
+[Reddit Search] (https://www.reddit.com/wiki/search/) 
   
 ### X-ray Searches 🔦 
  
