@@ -32,10 +32,12 @@ KEY
 
 [OctoHR](https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef) <sup>helps recruiters to get more information about developers</sup>
 
-[OctoHunt](https://octohunt.com/) <sup>find's developers based on skillset and location showing the most popular pages
+[OctoHunt](https://octohunt.com/) <sup>find's developers based on skillset and location showing the most popular pages 🔥 
 
 
 [Gitlogs](https://www.gitlogs.com/most_popular?topic=NODE) <sup>discover the top trending repos </sup>
+  
+[Top commits](https://commits.top/brazil.html) <sup>most active users in a country </sup> 🔥 
   
 
   
