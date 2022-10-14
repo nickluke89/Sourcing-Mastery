@@ -24,7 +24,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 💰 Paywall
 
 →→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
-## Finding candidates on Socials 🔎 
+##🔎 Finding candidates on Socials 🔎 
 
 ### 👾 GitHub 
 
@@ -89,7 +89,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 [Telegram Groups](https://www.telegram-group.com/en/)
 
   
-## 🔦 X-ray Searches  
+## 🔦 X-ray Searches 🔦 
  
 ###### GitHub
 site:github.com/ "hi there" "how to reach me" "gmail.com" Node
@@ -107,4 +107,7 @@ site:facebook.com ("Fullstack"|"Full stack"|"Full- stack"|"Go"|"Scala"| Software
 site:facebook.com “profile photo” Software Developer (Kiev OR Kyiv) Ukraine
 
 site:facebook.com "Others With a Similar Name" "javascript *" Kyiv, Ukraine  
+
+## 🛠 Toolbox 🧰 
+
 
