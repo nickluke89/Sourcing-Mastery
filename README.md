@@ -102,13 +102,15 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [Google Advanced Image](https://www.google.com/advanced_image_search) 
 
+# 🌈 Diversity 🌈 
+
+
+
 # 🩻  X-ray 🩻 
 
 [Recruitin](http://recruitin.net/) <sup>easily use Google to search profiles on LinkedIn/Stack/GitHub/Twiiter</sup> 
 
 [Irina - Custom Search Engines](https://booleanstrings.com/) <sup>learn how to create CSE by Irina Shamaeva</sup> 
-
-
 
 
   
@@ -134,7 +136,21 @@ site:facebook.com "Others With a Similar Name" "javascript *" Kyiv, Ukraine
 ###### Doc/CV Search 
 site:docs.google.com (resume OR cv OR vitae) “Java Developer”
 
+###### Diversity
 
+site:linkedin.com/in intitle:"Ruby developer" she OR her -"she/her" -intitle:she -intitle:her
+
+site:zoominfo.com/p she OR her Netherlands software engineer
+
+intitle:🌈 site:linkedin.com/in software engineer Amsterdam
+
+intitle:👭 site:linkedin.com/in
+
+intitle:👬 site:linkedin.com/in
+
+intitle:🏳️‍ ⚧️ site:linkedin.com/in
+
+Intitle: 👩🏽‍💻 site: linkedin.com/in
 
 # :trollface: Scrapers :trollface: 
 
