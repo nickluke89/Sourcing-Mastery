@@ -102,6 +102,15 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [Google Advanced Image](https://www.google.com/advanced_image_search) 
 
+# 🩻  X-ray 🩻 
+
+[Recruitin](http://recruitin.net/) <sup>easily use Google to search profiles on LinkedIn/Stack/GitHub/Twiiter</sup> 
+
+[Irina - Custom Search Engines](https://booleanstrings.com/) <sup>learn how to create CSE by Irina Shamaeva</sup> 
+
+
+
+
   
 # 🔦 X-ray Searches 🔦 
  
