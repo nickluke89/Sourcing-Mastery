@@ -113,8 +113,11 @@ site:facebook.com "Others With a Similar Name" "javascript *" Kyiv, Ukraine
 ## :trollface: Scrapers :trollface: 
 
 [DataMiner](https://dataminer.io/) 
+
 [PhantomBuster](PhantomBuster) 🔥 
+
 [Clay](https://chrome.google.com/webstore/detail/clay-for-chrome/acmfklpkefjlldbkdgmjoiknfgidadoh/related?hl=en)
+
 [Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) 🔥 
 
 
