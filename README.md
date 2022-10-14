@@ -104,6 +104,16 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 # 🌈 Diversity 🌈 
 
+[Boolean Search Strings](https://booleanblackbelt.com/2012/12/diversity-sourcing-boolean-search-strings-for-linkedin/#.UVc8DByG18E)
+
+[Most Common Surnames](https://namecensus.com/last-names/common-black-surnames/) 
+
+[Irina-Diversity Custom Search Engine](https://booleanstrings.com/diversity-search-with-refinements/#gsc.tab=0&gsc.q=Technology&gsc.sort=&gsc.ref=more%3Aafrican-american) 🔥 
+
+[Gender Diversity In Tech - Info & Resources](https://github.com/vlvagerviwager/gender-diversity-info) 🔥 
+
+[Boolean Search Strings](https://booleanblackbelt.com/2012/12/diversity-sourcing-boolean-search-strings-for-linkedin/#.UVc8DByG18E)
+
 
 
 # 🩻  X-ray 🩻 
