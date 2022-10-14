@@ -64,7 +64,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 ### Slack 
 [109 Slack Groups](https://toggl.com/blog/candidate-sourcing)
 
-[How to source & scrape on slack](https://www.crowdcast.io/e/brainfood-live-on-air-ep173) {watch}
+[How to source & scrape on slack](https://www.crowdcast.io/e/brainfood-live-on-air-ep173) 🍿 
   
   
 ### 🔦 X-ray Searches  
