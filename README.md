@@ -50,14 +50,13 @@ Why create this recruitment resource list and open source it? Energy in energy o
   
 ### :trollface: Discord 
  
-<details><summary>CLICK ME</summary>
+<details><summary>Search For Servers</summary>
 <p>
 
 [Disforge](https://disforge.com/)  
+[Discord.me](https://discord.me/servers)  
+  
 
-```ruby
-   puts "Hello World"
-```
 
 </p>
 </details>
