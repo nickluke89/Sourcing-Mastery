@@ -20,7 +20,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 ## Finding candidates on socials 🔎 
 
-### GitHub 👾 
+👾 ### GitHub 
 
 [GitHub advanced search](https://github.com/search?q=language%3Ajava+location%3Anetherlands)
 
@@ -34,7 +34,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
   
 
-### Stack Overflow :basecamp:
+:basecamp: ### Stack Overflow 
 
 [Find Top Users In Your City](https://data.stackexchange.com/stackoverflow/query/715250/find-stack-overflow-users-in-your-city-with-user-links-with-their-score-for-one) 
   
@@ -42,13 +42,13 @@ Why create this recruitment resource list and open source it? Energy in energy o
 [Find Top Users By Country](https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country) 
   
   
-### Reddit :electron:
+:electron: ### Reddit 
   
 [Discover the right subreddit](https://redditsearch.io/) 
   
 [Reddit Search](https://www.reddit.com/wiki/search/) 
   
-### X-ray Searches 🔦 
+🔦 ### X-ray Searches  
  
 ###### GitHub
 site:github.com/ "hi there" "how to reach me" "gmail.com" Node
