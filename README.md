@@ -131,6 +131,11 @@ site:facebook.com “profile photo” Software Developer (Kiev OR Kyiv) Ukraine
 
 site:facebook.com "Others With a Similar Name" "javascript *" Kyiv, Ukraine  
 
+###### Doc/CV Search 
+site:docs.google.com (resume OR cv OR vitae) “Java Developer”
+
+
+
 # :trollface: Scrapers :trollface: 
 
 [DataMiner](https://dataminer.io/) 
