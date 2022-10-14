@@ -34,7 +34,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
   
 
-:basecamp: ### Stack Overflow 
+### :basecamp: Stack Overflow 
 
 [Find Top Users In Your City](https://data.stackexchange.com/stackoverflow/query/715250/find-stack-overflow-users-in-your-city-with-user-links-with-their-score-for-one) 
   
