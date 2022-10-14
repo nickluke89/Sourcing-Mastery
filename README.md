@@ -79,6 +79,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 
 ### :ballot_box: Telegram 
+[Telegram Scraper] (https://github.com/th3unkn0n/TeleGram-Scraper/blob/master/README.md)
 
   
 ### 🔦 X-ray Searches  
