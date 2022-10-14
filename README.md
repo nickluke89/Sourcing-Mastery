@@ -62,8 +62,11 @@ Why create this recruitment resource list and open source it? Energy in energy o
 <p>
 
 [Disforge](https://disforge.com/)  
+  
 [Discord.me](https://discord.me/servers)
+  
 [Disboard](https://discordservers.com/)
+  
 [Disboard-coding](https://disboard.org/nl/servers/tag/coding)   
 
 
