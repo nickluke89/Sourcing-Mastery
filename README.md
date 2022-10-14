@@ -15,6 +15,10 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 
 →→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
+KEY 
+🍿 Video
+🔥 Frequently use 
+💰 Paywall
 
 
 ## Finding candidates on socials 🔎 
