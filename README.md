@@ -76,6 +76,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
   
 ### :dodo: Twitter
 
+[Followerwonk](https://www.telegram-group.com/en/) <sup>Twitter Analytics tool that finds and analyzes profiles</sup>
 
 
 ### :ballot_box: Telegram 
