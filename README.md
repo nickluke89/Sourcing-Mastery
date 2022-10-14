@@ -56,7 +56,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
   
 [Reddit Search](https://www.reddit.com/wiki/search/) 
   
-### :trollface: Discord 
+### :bowtie: Discord 
  
 <details><summary>Search For Servers</summary>
 <p>
