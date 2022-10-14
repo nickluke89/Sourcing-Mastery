@@ -8,7 +8,7 @@ I'm one of over 850 birds who work at MessageBird 🐥 A cloud omni-channel comm
 
 My sourcing expertise lie in software engineering however, my focus has shifted recently to cloud and infrastructure as MessageBird begins development of our own platform in AWS. 
 
-My interests ↠ Space 🛰  Star Wars/GoT/LOTR 💫  Sports ⚽️  Technology 🚀 
+My interests ↠ Space 🛰  Star Wars/ GoT/ LOTR 💫  Sports ⚽️  Technology 🚀 
 
 
 Why create this recruitment resource list and open source it? Energy in energy out my friends 🌍 💚
