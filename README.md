@@ -32,7 +32,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [OctoHR](https://chrome.google.com/webstore/detail/octohr/beiklbdjdmfkgchmiabjejdlpaoicbef) <sup>helps recruiters to get more information about developers</sup>
 
-[OctoHunt](https://octohunt.com/) <sup>find's developers based on skillset and location showing the most popular pages <sup> 🔥 
+[OctoHunt](https://octohunt.com/) <sup>find's developers based on skillset and location showing the most popular pages </sup> 🔥 
 
 
 [Gitlogs](https://www.gitlogs.com/most_popular?topic=NODE) <sup>discover the top trending repos </sup>
