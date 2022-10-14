@@ -74,6 +74,12 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [How to source & scrape on slack](https://www.crowdcast.io/e/brainfood-live-on-air-ep173) 🍿 
   
+### :dodo: Twitter
+
+
+
+### :ballot_box: Telegram 
+
   
 ### 🔦 X-ray Searches  
  
