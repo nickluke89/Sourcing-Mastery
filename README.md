@@ -114,7 +114,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [Boolean Search Strings](https://booleanblackbelt.com/2012/12/diversity-sourcing-boolean-search-strings-for-linkedin/#.UVc8DByG18E)
 
-
+[Conference Guest Speakers](https://blog.tito.io/posts/conference-guest-speakers/) 
 
 # 🩻  X-ray 🩻 
 
