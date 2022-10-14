@@ -36,10 +36,10 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 ### Stack Overflow :orange_book:
 
-[Find Stack Overflow Users In Your City](https://data.stackexchange.com/stackoverflow/query/715250/find-stack-overflow-users-in-your-city-with-user-links-with-their-score-for-one) 
+[Find Top Users In Your City](https://data.stackexchange.com/stackoverflow/query/715250/find-stack-overflow-users-in-your-city-with-user-links-with-their-score-for-one) 
   
   
-[Find Top Stack Ovetflow Users by Country](https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country) 
+[Find Top Users By Country](https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country) 
   
   
 ### X-ray Searches 🔦 
