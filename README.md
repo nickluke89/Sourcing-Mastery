@@ -42,13 +42,13 @@ Why create this recruitment resource list and open source it? Energy in energy o
 [Find Top Users By Country](https://data.stackexchange.com/stackoverflow/query/53058/top-users-by-country) 
   
   
-:electron: ### Reddit 
+### :electron: Reddit 
   
 [Discover the right subreddit](https://redditsearch.io/) 
   
 [Reddit Search](https://www.reddit.com/wiki/search/) 
   
-🔦 ### X-ray Searches  
+### 🔦 X-ray Searches  
  
 ###### GitHub
 site:github.com/ "hi there" "how to reach me" "gmail.com" Node
