@@ -25,7 +25,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 →→→→→→→→→→→→→→→→→→→→→→→→→→→→→→
 
-##🔎 Finding candidates on Socials 🔎 
+## 🔎 Finding candidates on Socials 🔎 
 
 ### 👾 GitHub 
 
