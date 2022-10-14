@@ -77,6 +77,8 @@ Why create this recruitment resource list and open source it? Energy in energy o
 [109 Slack Groups](https://toggl.com/blog/candidate-sourcing)
 
 [How to source & scrape on slack](https://www.crowdcast.io/e/brainfood-live-on-air-ep173) 🍿 
+
+[Slofile](https://slofile.com/) <sup>find Public Slack groups to join</sup>
   
 ### :dodo: Twitter
 
@@ -109,5 +111,6 @@ site:facebook.com “profile photo” Software Developer (Kiev OR Kyiv) Ukraine
 site:facebook.com "Others With a Similar Name" "javascript *" Kyiv, Ukraine  
 
 ## 🛠 Toolbox 🧰 
+[Tiny URL](URL Shortening) <sup>shortens URL's</sup>
 
 
