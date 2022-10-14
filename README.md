@@ -48,6 +48,22 @@ Why create this recruitment resource list and open source it? Energy in energy o
   
 [Reddit Search](https://www.reddit.com/wiki/search/) 
   
+### :trollface: Discord 
+ 
+<details><summary>CLICK ME</summary>
+<p>
+
+[Disforge](https://disforge.com/)  
+
+```ruby
+   puts "Hello World"
+```
+
+</p>
+</details>
+  
+
+  
 ### 🔦 X-ray Searches  
  
 ###### GitHub
