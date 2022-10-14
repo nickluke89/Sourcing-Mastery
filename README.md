@@ -147,4 +147,8 @@ site:facebook.com "Others With a Similar Name" "javascript *" Kyiv, Ukraine
 
 [What's My Username](https://whatsmyname.app/)<sup>allows you to enumerate usernames across many websites</sup> 🔥 
 
+[Boolean Builder](https://docs.google.com/spreadsheets/d/1q_Xjle_WAHMhDGVFMkMoZUdYlebxklcs1UaHcbSBKvQ/edit#gid=859465034) 
+
+[Kandidate-booean builder](https://boolean.vercel.app/) 
+
 
