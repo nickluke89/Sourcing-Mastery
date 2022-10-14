@@ -95,7 +95,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [Facesaerch](http://www.facesaerch.com/) <sup>find faces on Google</sup> 
 
-[YouTube MetaData](https://mattw.io/youtube-metadata/) <sup>grabs singular details about a video and its uploader/playlist/creator/channel</sup> 
+[YouTube MetaData](https://mattw.io/youtube-metadata/) <sup>grabs singular details about a video and its uploader/playlist/creator/channel</sup> 🔥 
 
 [Pimeyes](https://pimeyes.com/en) <sup>reverse image search</sup> 
 
