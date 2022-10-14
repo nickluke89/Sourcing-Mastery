@@ -91,7 +91,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [Telegram Groups](https://www.telegram-group.com/en/)
 
-## 👀 Media Search 👀 
+# 👀 Media Search 👀 
 
 [Facesaerch](http://www.facesaerch.com/) <sup>find faces on Google</sup> 
 
@@ -103,7 +103,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 [Google Advanced Image](https://www.google.com/advanced_image_search) 
 
   
-## 🔦 X-ray Searches 🔦 
+# 🔦 X-ray Searches 🔦 
  
 ###### GitHub
 site:github.com/ "hi there" "how to reach me" "gmail.com" Node
@@ -122,7 +122,7 @@ site:facebook.com “profile photo” Software Developer (Kiev OR Kyiv) Ukraine
 
 site:facebook.com "Others With a Similar Name" "javascript *" Kyiv, Ukraine  
 
-## :trollface: Scrapers :trollface: 
+# :trollface: Scrapers :trollface: 
 
 [DataMiner](https://dataminer.io/) 
 
@@ -133,7 +133,7 @@ site:facebook.com "Others With a Similar Name" "javascript *" Kyiv, Ukraine
 [Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) 🔥 
 
 
-## 🛠 Toolbox 🧰 
+# 🛠 Toolbox 🧰 
 [Tiny url](https://tinyurl.com/app/) <sup>shortens URL's</sup> 
 
 [What's My Username](https://whatsmyname.app/)<sup>allows you to enumerate usernames across many websites</sup> 🔥 
