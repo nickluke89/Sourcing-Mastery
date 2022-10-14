@@ -44,8 +44,8 @@ Why create this recruitment resource list and open source it? Energy in energy o
   
 ### Reddit :electron:
   
-[Discover the right subreddit] (https://redditsearch.io/) 
-[Reddit Search] (https://www.reddit.com/wiki/search/) 
+[Discover the right subreddit](https://redditsearch.io/) 
+[Reddit Search](https://www.reddit.com/wiki/search/) 
   
 ### X-ray Searches 🔦 
  
