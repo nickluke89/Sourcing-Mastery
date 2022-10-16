@@ -173,6 +173,10 @@ Intitle: 👩🏽‍💻 site: linkedin.com/in
 [Instant Data Scraper](https://chrome.google.com/webstore/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah) 🔥 
 
 
+# :right_anger_bubble: Layoff Trackers :right_anger_bubble:
+
+[OSINT Tracker](https://www.osintme.com/index.php/2022/09/30/resources-for-tracking-layoffs/) 🔥 
+
 # 🛠 Toolbox 🧰 
 [Tiny url](https://tinyurl.com/app/) <sup>shortens URL's</sup> 
 
