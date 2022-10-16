@@ -177,6 +177,8 @@ Intitle: 👩🏽‍💻 site: linkedin.com/in
 
 [OSINT Tracker](https://www.osintme.com/index.php/2022/09/30/resources-for-tracking-layoffs/) 🔥 
 
+[Layoffs.fyi](https://layoffs.fyi/) 
+
 # 🛠 Toolbox 🧰 
 [Tiny url](https://tinyurl.com/app/) <sup>shortens URL's</sup> 
 
