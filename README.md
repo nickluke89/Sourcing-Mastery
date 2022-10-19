@@ -162,6 +162,8 @@ intitle:🏳️‍ ⚧️ site:linkedin.com/in
 
 Intitle: 👩🏽‍💻 site: linkedin.com/in
 
+Intitle: LGBTQIA+ site: linkedin.com/in
+
 # :trollface: Scrapers :trollface: 
 
 [DataMiner](https://dataminer.io/) 
