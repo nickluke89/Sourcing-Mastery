@@ -183,37 +183,47 @@ Intitle: LGBTQIA+ site: linkedin.com/in
 
 # 🔮 Unique Identifiers 🔮
 
-A unique identifier is text within a page that is standard on every profile. Locating and understanding which social platfrom uses which 'identifier' will allow you to source on pretty much any site. 
+*A unique identifier is text within a page that is standard on every profile. Locating and understanding which social platfrom uses which 'identifier' will allow you to source on pretty much any site.* 
 
 ###### Instagram
 
 Unique Identifiers -
+
 Within URL – instagram.com/*/
+
 Combined words “followers” “following”
+
 Example string: site:instagram.com/*/ followers following “front-end developer”
 
 ###### GitHub
 
 Unique Identifier: “Block or Report”
+
 Example string: site:github.com “block or report” (Java|C#|Python)
 
 ###### Twitter
 
 Unique Identifier: “tweets & replies”
+
 Example string: site:twitter.com “tweets & replies” “blockchain developer”
 
 
 ###### Stack Overflow 
 
 Unique Identifiers -
+
 Within URL – https://stackoverflow.com/users/7195096/lotusnoir
+
 Within Profile Text “Member for”
+
 Within Profile text “Last seen”
 
 Example strings:
 
 site:stackoverflow.com/users/*/* angularjs
+
 site:stackoverflow.com “last seen” “back-end developer”
+
 site:stackoverflow.com “member for” “DevOps Engineer”
 
 
