@@ -215,7 +215,7 @@ Example string: site:twitter.com “tweets & replies” “blockchain developer�
 
 Unique Identifiers -
 
-Within URL – https://stackoverflow.com/users/7195096/lotusnoir
+Within URL 
 
 Within Profile Text “Member for”
 
