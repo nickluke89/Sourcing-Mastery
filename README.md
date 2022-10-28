@@ -122,7 +122,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [Irina - Custom Search Engines](https://booleanstrings.com/) <sup>learn how to create CSE by Irina Shamaeva</sup> 
 
-[Irina - X-Ray vs. LinkedIn Search](https://booleanstrings.com/2022/10/27/who-needs-linkedin-recruiter-x-ray-vs-linkedin-search-comparison-chart/) 
+[Irina - X-Ray vs. LinkedIn Search](https://booleanstrings.com/2022/10/27/who-needs-linkedin-recruiter-x-ray-vs-linkedin-search-comparison-chart/) <sup>search comparison charta</sup> 
 
 
   
