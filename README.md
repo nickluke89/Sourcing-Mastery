@@ -247,4 +247,4 @@ site:stackoverflow.com “member for” “DevOps Engineer”
 
 [Tech Map](https://techmap.io/)<sup>find companies using the technologies you're hiring for</sup> 🔥
 
-[Highlight This] (https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj/related?hl=en))<sup>finds and marks words on any site</sup> 🔥 
+[Highlight This](https://chrome.google.com/webstore/detail/highlight-this-finds-and/fgmbnmjmbjenlhbefngfibmjkpbcljaj/related?hl=en)<sup>finds and marks words on any site</sup> 🔥 
