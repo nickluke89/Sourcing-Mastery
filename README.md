@@ -139,6 +139,8 @@ site:github.com/ "block or report" "hi there" "how to reach me" "gmail.com" Node
 site:stackoverflow.com/users "Amsterdam" Java
 
 site:stackoverflow.com/users "great answer" Brazil  
+
+###### [Dev.to] (https://dev.to/) 
   
   
 ###### Facebook 
@@ -240,5 +242,7 @@ site:stackoverflow.com “member for” “DevOps Engineer”
 [Boolean Builder](https://docs.google.com/spreadsheets/d/1q_Xjle_WAHMhDGVFMkMoZUdYlebxklcs1UaHcbSBKvQ/edit#gid=859465034) 
 
 [Kandidate-booean builder](https://boolean.vercel.app/) 
+
+[Tech Map](https://techmap.io/)<sup>find companies using the technologies you're hiring for</sup> 🔥
 
 
