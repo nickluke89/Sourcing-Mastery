@@ -173,6 +173,10 @@ Intitle: 👩🏽‍💻 site: linkedin.com/in
 
 Intitle: LGBTQIA+ site: linkedin.com/in
 
+###### Contact Details 
+
+(“Contact me at”|“email me”|”gmail.com”|”📧”)
+
 # :trollface: Scrapers :trollface: 
 
 [DataMiner](https://dataminer.io/) 
