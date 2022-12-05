@@ -2,11 +2,11 @@
 
 Hey folks, I'm [Nick](https://www.linkedin.com/in/nick-dickinson-techrecruiter/) 👋
 
-A Tech Recruiter from the UK 🇬🇧 
+A Tech Recruiter from the UK 🇬🇧 with over 7 years full stack technical recruitment experience. 
 
 I'm one of over 850 birds who work at MessageBird 🐥 A cloud omni-channel communications company built for global scale and headquartered in Amsterdam 🇳🇱
 
-My sourcing expertise lie in software engineering however, my focus has shifted recently to cloud and infrastructure as MessageBird begins development of our own platform in AWS. 
+My sourcing expertise mainly lie in software, cloud and infrastructure engineering however, I've hired candidates in security, cyber, product and design. 
 
 My interests ↠ Space 🛰  Star Wars/ GoT/ LOTR 💫  Sports ⚽️  Technology 🚀 
 
