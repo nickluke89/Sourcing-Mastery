@@ -116,7 +116,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [Conference Guest Speakers](https://blog.tito.io/posts/conference-guest-speakers/) 
 
-# 🩻  X-ray 🩻 
+# 🩻  X-ray Sites 🩻 
 
 [Recruitin](http://recruitin.net/) <sup>easily use Google to search profiles on LinkedIn/Stack/GitHub/Twiiter</sup> 
 
@@ -126,7 +126,7 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 
   
-# 🔦 X-ray Searches 🔦 
+# 🔦 X-ray Search Strings 🔦 
  
 ###### GitHub
 site:github.com/ "hi there" "how to reach me" "gmail.com" Node
