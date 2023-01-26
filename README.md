@@ -116,6 +116,20 @@ Why create this recruitment resource list and open source it? Energy in energy o
 
 [Conference Guest Speakers](https://blog.tito.io/posts/conference-guest-speakers/) 
 
+# 🎱 Custom Search Engines 🎱
+
+[GitHub-Stack-Openhub-Launchpad-Gitlab-BitBucket](https://cse.google.com/cse?cx=012020006043586000305%3Aseaoylfgqio&fbclid=IwAR3UvtoLb_SM5tRjc5z3b4WUMA-81j_TyqxnWZiLuifJX7n_LH-FPDkkNKU#gsc.tab=0) 
+
+[Reddit](https://cse.google.com/cse?cx=001394533911082033616:cvqjwj5gxtm) 
+
+[Telegram](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0) 
+
+[Female LinkedIn Profiles](https://cse.google.com/cse?cx=009462381166450434430:admephnomn4#gsc.tab=0&gsc.q=%22software%20engineer%22&gsc.sort=) 
+
+[Female Profiles - all sites](https://cse.google.com/cse?cx=009462381166450434430:admephnomn4#gsc.tab=0&gsc.q=%22software%20engineer%22&gsc.sort=) 
+
+
+
 # 🩻  X-ray Sites 🩻 
 
 [Recruitin](http://recruitin.net/) <sup>easily use Google to search profiles on LinkedIn/Stack/GitHub/Twiiter</sup> 
