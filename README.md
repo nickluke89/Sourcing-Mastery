@@ -6,7 +6,7 @@ A Tech Recruiter from the UK 🇬🇧 with over 7 years full-cycle technical rec
 
 I'm a Sr Recruiter at Fortis Games - a global remote-first Game Developer 
 
-My sourcing expertise mainly lie in software, cloud and infrastructure engineering however, I've hired candidates in security, cyber, product and design. 
+My sourcing expertise mainly lie in software, cloud and infrastructure engineering however, my focus recently is on Product & Data disciplines. 
 
 My interests ↠ Space 🛰  Star Wars/ GoT/ LOTR 💫  Sports ⚽️  Technology 🚀 
 
