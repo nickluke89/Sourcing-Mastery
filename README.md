@@ -4,7 +4,7 @@ Hey folks, I'm [Nick](https://www.linkedin.com/in/nick-dickinson-techrecruiter/)
 
 A Tech Recruiter from the UK 🇬🇧 with over 7 years full-cycle technical recruitment experience having worked in all environments - Agency, SMB, RPO and Talent Acquisition. 
 
-I'm available for work, having been impacted by the recent layoffs at MessageBird 🐥 A cloud omni-channel communications company built for global scale and headquartered in Amsterdam 🇳🇱
+I'm a Sr Recruiter at Fortis Games - a global remote-first Game Developer 
 
 My sourcing expertise mainly lie in software, cloud and infrastructure engineering however, I've hired candidates in security, cyber, product and design. 
 
